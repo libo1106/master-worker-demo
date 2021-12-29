@@ -1,0 +1,6 @@
+# Project exclude paths
+/node_modules/
+/plugins/ping.js
+/index.js
+/master.js
+/worker.js
